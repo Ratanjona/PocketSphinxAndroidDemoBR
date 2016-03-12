@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">PocketSphinx Demo BR</string>
+    <string name="start">Iniciar</string>
+    <string name="stop">Parar</string>
+    
+    <string name="kws_caption">Para começar a demonstração diga \"oh poderoso computador\".</string>
+    <string name="menu_caption">Diga \"números\" ou \"livre\" para escolher um exemplo específico.</string>
+    <string name="digits_caption">Vamos reconhecer alguns números: Diga vários e aperte \"Parar\".</string>
+    <string name="forecast_caption">Diga algo livre como por exemplo \"o dia está belo\".</string>
+</resources>

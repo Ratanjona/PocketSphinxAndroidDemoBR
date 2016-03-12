@@ -1,0 +1,74 @@
+10
+
+dir
+12426
+http://svn.code.sf.net/p/cmusphinx/code/trunk/pocketsphinx-android-demo/libs
+http://svn.code.sf.net/p/cmusphinx/code
+
+
+
+2014-03-30T09:11:59.026949Z
+12422
+mbait
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+94700074-3cef-4d97-a70e-9c8c206c02f5
+
+armeabi
+dir
+
+armeabi-v7a
+dir
+
+mips
+dir
+
+pocketsphinx-android-0.8-nolib.jar
+file
+
+
+
+
+2014-04-03T00:18:59.146000Z
+db7f0b0ae8442a7f19c14bb2b40030f0
+2014-03-30T09:11:59.026949Z
+12422
+mbait
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34605
+
+x86
+dir
+

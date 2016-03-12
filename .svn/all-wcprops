@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/cmusphinx/code/!svn/ver/12422/trunk/pocketsphinx-android-demo
+END
+custom_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/cmusphinx/code/!svn/ver/12151/trunk/pocketsphinx-android-demo/custom_rules.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/cmusphinx/code/!svn/ver/12362/trunk/pocketsphinx-android-demo/AndroidManifest.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/cmusphinx/code/!svn/ver/12151/trunk/pocketsphinx-android-demo/build.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/cmusphinx/code/!svn/ver/12151/trunk/pocketsphinx-android-demo/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/cmusphinx/code/!svn/ver/12354/trunk/pocketsphinx-android-demo/.project
+END
+assets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/cmusphinx/code/!svn/ver/12421/trunk/pocketsphinx-android-demo/assets.xml
+END
+.bzrignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/cmusphinx/code/!svn/ver/12151/trunk/pocketsphinx-android-demo/.bzrignore
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/cmusphinx/code/!svn/ver/12151/trunk/pocketsphinx-android-demo/.classpath
+END

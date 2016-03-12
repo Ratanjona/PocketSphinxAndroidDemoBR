@@ -1,0 +1,11 @@
+models/grammar/digits.gram
+models/grammar/menu.gram
+models/hmm/pt-br-semi/feat.params
+models/hmm/pt-br-semi/mdef
+models/hmm/pt-br-semi/means
+models/hmm/pt-br-semi/mixture_weights
+models/hmm/pt-br-semi/noisedict
+models/hmm/pt-br-semi/transition_matrices
+models/hmm/pt-br-semi/variances
+models/lm/ceten.lm.DMP
+models/lm/constituicao.dic
